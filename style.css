@@ -1,0 +1,145 @@
+body{
+    background-image: url("background.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.name{
+    font-size:40px;
+    color:lightgray;
+    font-family: cursive;
+}
+.about{
+    color:lightgray;
+    font-family:'Times New Roman', Times, serif;
+    position:absolute;
+    left:500px;
+    top:150px;
+}
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border:1.5px solid lightgray;
+    height:auto;
+    width:60px;
+    padding:2px;
+}
+.skills{
+    color:lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    position:absolute;
+    top:150px;
+    left:630px;
+}
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border:1.5px solid lightgray;
+    height:auto;
+    width:60px;
+    padding:2px;
+}
+.projects{
+    color:lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    position:absolute;
+    top:150px;
+    left:750px;
+}
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border:1.5px solid lightgray;
+    height:auto;
+    width: 200px;
+    padding:4px;
+}
+.contact{
+    color:lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    position:absolute;
+    top:142px;
+    left:900px;
+    font-size:x-large;
+}
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border:1.5px solid lightgray;
+    height:auto;
+    width:95px;
+    padding:2px;
+}
+#intro{
+    color:lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+th{
+    color:lightgray;
+    border:1.5px solid lightgray;
+    background-color:rgb(114, 169, 169);
+}
+table{
+    border:2px solid rgb(167, 88, 88);
+}
+td,tr{
+    color:lightgray;
+    border:1.5px solid lightgray;
+}
+a{
+    cursor:pointer;
+    text-decoration:none;
+    color:lightgray;
+}
+.projectbar1{
+    border:2px solid lightgray;
+    height :90px;
+}
+.p1{
+    color:lightgray;
+    position:absolute;
+    font-size: 30px;;
+    left:500px;
+}
+.barcontent1{
+    color:lightgray;
+    position:relative;
+    left:450px;
+    top:40px;
+    font-size: 25px;
+}
+.projectbar2{
+    border:2px solid lightgray;
+    height :90px;
+}
+.p2{
+    color:lightgray;
+    position:absolute;
+    font-size: 30px;;
+    left:500px;
+}
+.barcontent2{
+    color:lightgray;
+    position:relative;
+    left:450px;
+    top:40px;
+    font-size: 25px;
+
+}
+.back-top{
+    position:absolute;
+    right:450px;
+    color:lightgray;
+    font-size:30px;
+}
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border:1.5px solid white;
+    width:240px;
+}
