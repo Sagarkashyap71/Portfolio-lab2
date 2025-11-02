@@ -1,2 +1,2 @@
 # Portfolio-lab2
-Made my first portfolio using html and css.
+Portfolio using HTML and CSS concepts
